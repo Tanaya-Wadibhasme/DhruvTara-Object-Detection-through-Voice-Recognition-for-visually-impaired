@@ -20,7 +20,7 @@ when the object is detected and then the model stops working.
 For our specific model, we also build our own custom dataset which has 52 different types of objects with more than 20,000 images for the detection.
 
 Hardware components :
-1) Raspberry pi zero 4B
+1) Raspberry pi 4B
 2) Raspberry pi case
 3) Camera (Raspberry Pi NoIR Camera)
 4) Microphone
